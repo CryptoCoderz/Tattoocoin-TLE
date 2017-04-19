@@ -75,7 +75,7 @@ bool fDaemon = false;
 bool fServer = false;
 bool fCommandLine = false;
 string strMiscWarning;
-bool fTCLNet = true; // Pre-toggled true for TLE source
+bool fTCLNet = true;
 bool fTestNet = false;
 bool fNoListen = false;
 bool fLogTimestamps = false;
